@@ -1,4 +1,11 @@
-## Hi there 👋
+## Yo! 🤙
+
+My name's Joshua but most people call me Josh and I'm a full-stack dev based out of Stockholm.
+I started my dev journey as a web developer but in recent years been deeply involved in mobile solutions, primarily with React Native!
+
+I have mostly worked on private repos but have contributed to some open-source packages for React Native. You can check them out in my pinned repo section!
+
+#### If you're reading this, have a great day! 😎
 
 <!--
 **JoshBarnesD/JoshBarnesD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
